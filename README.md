@@ -8,6 +8,7 @@ This encoding has no practical use. You may wonder why. Usually encodings increa
 [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## How it works?
+Encoding:
 [Here you can see how it works](https://www.figma.com/board/L5JjjMf3wH9SaSvqwfafux/useless-encoding)
 
 
